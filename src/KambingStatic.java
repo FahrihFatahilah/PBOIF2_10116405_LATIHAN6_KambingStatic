@@ -6,7 +6,11 @@
 
 /**
  *
- * @author Agaaam
+ * @author Fahrih Fatahilah
+ * Nama  : Fahrih Fatahilah
+ * Kelas : IF-2
+ * Nim   : 10116405
+ * 
  */
 public class KambingStatic {
     public static final String NAMA_KAMBING ="MIDUN";
