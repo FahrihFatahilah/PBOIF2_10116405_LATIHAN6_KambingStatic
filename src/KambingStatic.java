@@ -8,7 +8,7 @@
  *
  * @author Fahrih Fatahilah
  * Nama  : Fahrih Fatahilah
- * Kelas : IF-2
+ * Kelas : IF-2 / PBO-IF2
  * Nim   : 10116405
  * 
  */
